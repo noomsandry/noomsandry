@@ -21,34 +21,23 @@ Antsirabe 110 - Madagascar | +261 34 81 419 67 andriatsiferana.nomena@gmail.com 
 - AWS
 ## EXPERIENCES
 **Since Sep 2019 : FULLSTACK DEVELOPER – FREELANCE**
-- Development of a financial management solution ( forscale.io )
- **Angular 11, NodeJs, GraphQL , AWS, CI/CD, BitBucket**
-- Redesign of a monitoring application
-**Angular 8, NodeJs, PHP,**
-- Development of customer prospect web application 
-**Angular 8**
+- Development of a financial management solution ( forscale.io ) : **Angular 11, NodeJs, GraphQL , AWS, CI/CD, BitBucket**
+- Redesign of a monitoring application : **Angular 8, NodeJs, PHP,**
+- Development of customer prospect web application : **Angular 8**
 
 **Feb 2018 – Sept 2019 : FULLSTACK DEVELOPER AT MADASOFTWARE**
-- Development of an office management web application
-**Angular 7, Symfony 4**
-- Development of a web application for file management
-**Angular 7**
-- Development of a bill generation web application
-**Symfony 4, SQLite**
-- Development of a statistics web application
-**Silex (PHP), MongoDB**
-- Maintenance of  powergun.fr
-**Django, PostgreSQL** 
-Realize a digitization of a process filling form
-**Symfony 3, EmberJs, MySQL**
+- Development of an office management web application : **Angular 7, Symfony 4**
+- Development of a web application for file management : **Angular 7**
+- Development of a bill generation web application : **Symfony 4, SQLite**
+- Development of a statistics web application : **Silex (PHP), MongoDB**
+- Maintenance of  powergun.fr : **Django, PostgreSQL** 
+- Realize a digitization of a process filling form : **Symfony 3, EmberJs, MySQL**
 
 **Nov 2017 - Feb 2018 : INTERNSHIP AT MADASOFTWARE**
-- Development of web and mobile application to follow  the sale activity
-**Ionic - Angular 5 - Symfony 3**
+- Development of web and mobile application to follow  the sale activity : **Ionic - Angular 5 - Symfony 3**
 
 **Nov 2016 – Feb 2017 : INTERNSHIP AT TELMA GROUP**
-- Development of web application to export data from DataWarehouse 
-**PHP, SQL Server**
+- Development of web application to export data from DataWarehouse  : **PHP, SQL Server**
 
 ## EDUCATION
 2014 - 2019 : Professional **Master of Software and Database engineering** at ENI
