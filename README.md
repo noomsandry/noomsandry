@@ -4,7 +4,7 @@ Antsirabe 110 - Madagascar | +261 34 81 419 67 andriatsiferana.nomena@gmail.com 
 >   Software and Database Engineer, specialized in web development, it has always been my great passion. I like learn, experiment with new technologies and share my discoveries.
 
 ## QUALIFICATION
-- 4 years experience
+- \+ 4 years experience
 - Project design
 - Project planning
 - Frontend and backend development
@@ -21,9 +21,14 @@ Antsirabe 110 - Madagascar | +261 34 81 419 67 andriatsiferana.nomena@gmail.com 
 - AWS
 ## EXPERIENCES
 **Since Sep 2019 : FULLSTACK DEVELOPER – FREELANCE**
+-
+- Development of a goods transport management application: **PHP7, MySQL**
+- Development of web software specifically for CAMSP, SESSAD, CMPP and PCO/PDAP Platform: **Symfony - Angular**
 - Development of a financial management solution ( forscale.io ) : **Angular 11, NodeJs, GraphQL , AWS, CI/CD, BitBucket**
-- Redesign of a monitoring application : **Angular 8, NodeJs, PHP,**
-- Development of customer prospect web application : **Angular 8**
+- Redesign of a monitoring application : **Angular 8, NodeJs, PHP**
+- Creation of a digital platform to income generator: **Angular 8, Node.js**
+- Virtual assistant development: **Angular 8, Node.js**
+- Development of customer prospect web application : **Angular 8, Node.js**
 
 **Feb 2018 – Sept 2019 : FULLSTACK DEVELOPER AT MADASOFTWARE**
 - Development of an office management web application : **Angular 7, Symfony 4**
