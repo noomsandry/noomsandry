@@ -4,7 +4,7 @@ Antsirabe 110 - Madagascar | +261 34 81 419 67 andriatsiferana.nomena@gmail.com 
 >   Software and Database Engineer, specialized in web development, it has always been my great passion. I like learn, experiment with new technologies and share my discoveries.
 
 ## QUALIFICATION
-- \+ 4 years experience
+- 5 years experience
 - Project design
 - Project planning
 - Frontend and backend development
