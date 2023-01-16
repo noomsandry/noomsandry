@@ -13,6 +13,7 @@ Antsirabe 110 - Madagascar | +261 34 81 419 67 andriatsiferana.nomena@gmail.com 
 ## SKILLS
 - Javascript								
 - Angular
+- React
 - Typescript
 - NodeJs
 - NestJs
